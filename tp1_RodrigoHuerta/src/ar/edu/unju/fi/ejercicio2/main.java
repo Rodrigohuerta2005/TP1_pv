@@ -8,7 +8,7 @@ public class main {
 		        String nombrePais = "Argentina";
 		        int edadPersona = 18;
 		        double alturaEdificio = 70.45; 
-		        double precioProducto = 20; 
+		        float precioProducto = 20; 
 		        String numeroTelefono = "+1111111111";
 		        double cosenoDe05 = Math.cos(0.5);
 		        
