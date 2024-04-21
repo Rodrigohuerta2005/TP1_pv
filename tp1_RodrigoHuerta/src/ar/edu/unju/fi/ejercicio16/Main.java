@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		 Scanner scanner = new Scanner(System.in);
 
 	  
@@ -13,7 +13,7 @@ public class Main {
 
 	        
 	        for (int i = 0; i < nombres.length; i++) {
-	            System.out.print("Ingrese el nombre de la persona " + (i + 1) + ": ");
+	            System.out.print("Ingresar el nombre de la persona " + (i + 1) + ": ");
 	            nombres[i] = scanner.nextLine();
 	        }
 
